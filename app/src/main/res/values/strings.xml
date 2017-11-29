@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomChatApp</string>
+    <string name="send_button_text">전송</string>
+    <string name="enter_the_room_button_text">대화방 입장</string>
+</resources>

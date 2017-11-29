@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1014723248478",
+    "firebase_url": "https://randomchatapp-14e29.firebaseio.com",
+    "project_id": "randomchatapp-14e29",
+    "storage_bucket": "randomchatapp-14e29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014723248478:android:04ab47943210b1dc",
+        "android_client_info": {
+          "package_name": "com.sgc109.android.randomchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014723248478-avsm3c4os9u1a3tb6fhqrsihgs7em1no.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sgc109.android.randomchatapp",
+            "certificate_hash": "6b3214fa238002fbd3c61d0ae609bf6a2b6ed9fb"
+          }
+        },
+        {
+          "client_id": "1014723248478-rthrhq0kl29j7h4h44a0cgvavm82dcr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2Xb4E1WYBcVLYxd4H37TIfvDuYRP6aY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014723248478-rthrhq0kl29j7h4h44a0cgvavm82dcr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
