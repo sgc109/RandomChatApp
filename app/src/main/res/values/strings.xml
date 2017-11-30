@@ -2,4 +2,5 @@
     <string name="app_name">RandomChatApp</string>
     <string name="send_button_text">전송</string>
     <string name="enter_the_room_button_text">대화방 입장</string>
+    <string name="find_other_user_progress_dialog_text">상대를 찾는 중</string>
 </resources>
